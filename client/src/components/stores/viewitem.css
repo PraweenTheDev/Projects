@@ -1,0 +1,31 @@
+.viewbuttongroup{
+    margin-left:30%;
+    margin-top:2%;
+}
+.viewcard-body{
+    margin-right:0%;
+    width:150%;
+
+}
+.viewcard-body ul li{
+    list-style: none;
+}
+.viewbutton{
+    display: inline;
+    margin:2%;
+}
+.upbtn{
+    margin-top:10%;
+    margin-left:-10%;
+}
+.storeimages{
+    margin-top:35%;
+    height: 180px;
+    width:200px;
+    margin:none;
+}
+.identifies{
+    margin-top:-8%;
+    margin-bottom:-9%;
+    margin-left:-5%;
+}
